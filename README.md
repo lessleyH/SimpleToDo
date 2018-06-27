@@ -1,7 +1,6 @@
-#Project 1 - Simple To Do
-#Lessley Hernandez
-#June 26, 2018
-#FBU SA1
+Project 1 - Simple To Do
+June 26, 2018
+
 Simple To Do is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: Lessley Hernandez
